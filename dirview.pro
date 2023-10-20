@@ -12,3 +12,6 @@ INSTALLS += target
 HEADERS += \
     mainwindow.h \
     myfilesystemmodel.h
+
+DISTFILES += \
+    README.txt
